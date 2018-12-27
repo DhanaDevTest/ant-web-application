@@ -54,7 +54,7 @@
 		</war>
 		<copy file="${war.home}/${app.name}.war" todir="${dist.home}" overwrite="true" />
 		<delete dir="${work.home}" />
-		<!--<delete dir="${war.home}" /> -->
+		<delete dir="${war.home}" />
 	</target>
 	
 </project>

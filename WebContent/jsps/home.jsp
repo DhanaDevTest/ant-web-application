@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="${pageContext.request.contextPath}/images/mithunlogo.jpg" rel="icon">
+<title>Dhana - Home Page</title>
+<link href="${pageContext.request.contextPath}/images/Dhanapalan.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome.</h1>
+<h1 align="center"> ANT Test Project Updated By Dhanapalan M</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -18,17 +18,16 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli,Opp To Madhurai Iddly House
+		Dhanapalan M, 
 		Bangalore.
-		+91-9980923226
+		+91-123456789
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2018 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Dhana ANT Test - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://google.com/">Google</a> </small></p>
 
 </body>
 </html>
